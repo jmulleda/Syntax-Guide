@@ -1,1 +1,1 @@
-# repo
+# JavaScript Syntax Guide 
